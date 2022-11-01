@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d285c947-8f5e-4bf5-bb0a-69c4babe4fad</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>labs.py</StartupFile>
+    <StartupFile>lab2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="labs.py" />
+    <Compile Include="lab2.py" />
+    <Compile Include="lab3.py" />
+    <Compile Include="lab4.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
