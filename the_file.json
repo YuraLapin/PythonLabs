@@ -1,0 +1,48 @@
+{
+    "members": [
+        {
+            "name": "example_char1",
+            "health": 90,
+            "weapon": {
+                "name": "Frostmourne",
+                "damage": 100,
+                "price": 1000,
+                "description": "Empty description"
+            },
+            "shield": {
+                "name": "The Door",
+                "defence": 10,
+                "price": 2000,
+                "description": "Empty_description"
+            },
+            "armor": {
+                "name": "Havel armor",
+                "defence": 30,
+                "price": 1500,
+                "description": "Empty description"
+            }
+        },
+        {
+            "name": "example_char2",
+            "health": 80,
+            "weapon": {
+                "name": "Shadowmourne",
+                "damage": 50,
+                "price": 800,
+                "description": "Empty description"
+            },
+            "shield": {
+                "name": "Great Protector",
+                "defence": 8,
+                "price": 1000,
+                "description": "Empty_description"
+            },
+            "armor": {
+                "name": "Loincloth",
+                "defence": 20,
+                "price": 1000,
+                "description": "Empty description"
+            }
+        }
+    ]
+}
